@@ -1,0 +1,9 @@
+{
+  "name": "tableau-extensions-tutorial-part-one",
+  "version": "1.0.0",
+  "description": "this is description",
+  "main": "index.js",
+  "repository": "https://github.com/lbsky888/tableau-extensions-tutorial-part-one",
+  "author": "linbo <lbsky.lin@outlook.com>",
+  "license": "MIT"
+}
